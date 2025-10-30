@@ -1,6 +1,4 @@
 
-# Football-Data-Analysis-SQL
-
 # ⚽️ Football Data Analysis — SQL & Data Visualization
 
 ## 🧠 Objectif du projet
